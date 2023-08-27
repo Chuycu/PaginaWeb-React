@@ -1,0 +1,15 @@
+REACT 
+npx create-react-app "nombre de la terminal"
+
+Crea algo llamado dependencias  => node_modulos.
+-tambien crea:
+.gitignore (no sube los archivos al git hub, considera como inecesario o no debe subirse ejemplo el node_modulos.)
+(Ruta (Posible))
+cd documents
+cd nombreapp
+code .
+npm start
+
+-Node
+node -v 
+npm -v
